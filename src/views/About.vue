@@ -5,6 +5,5 @@
 </template>
 <script lang="ts">
 import Vue from 'vue';
-import { TDemo } from './Demo1.vue';
 
 </script>
